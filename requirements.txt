@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+-e .
+### -e . triggers setup.py file but this should not be present in the setup file we have to write a condition
